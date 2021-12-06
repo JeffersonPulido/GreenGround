@@ -1,4 +1,5 @@
 # GreenGround
-Proyecto SENA GreenGround
-GlashFish
-MySQL
+
+* Proyecto SENA GreenGround
+* GlashFish
+* MySQL
