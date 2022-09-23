@@ -1,13 +1,43 @@
-# GreenGround
+# E Commerce GREENGROUND
 
-* Proyecto SENA GreenGround
-* GlashFish
-* MySQL
+E-Commerce básico que permite registrar ventas por usuario, proveedor, productos, recuperación de contraseñas, envió por correo de comprobantes de compra, desarrollado como proyecto de grado en Tecnólogo ADSI SENA.
+
+## 🛠 Skills
+HTML, CSS. JavaScript, BOOTSTRAP, JAVA, MySQL y otras...
 
 
-#=========================================================================#
+## Authors
+
+- [@JeffersonPulido](https://www.github.com/JeffersonPulido)
+- Andres Olmos
+- Santiago Monroy
+- Juan Paez
+
+## Deployment
+
+Para desplegar este proyecto:
+
+```bash
+  Clonar o descargar repositorio
+```
+```bash
+  Ejecutar archivo index.html
+```
+
+## Demo
+
+N/A
+
+
+## API Reference
+
+```http
+  N/A
+```
+
+
 <h1 align="center">Hola 👋, Me llamo Jefferson Pulido</h1>
-<h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos básicos en PHP, HTML, CSS y otros... Soy responsable y autodidacta!</h3>
+<h3 align="center">Soy Desarrollador Web Junior, tengo conocimientos <b>básicos</b> en PHP, HTML, CSS, Python y JavaScript... Me gusta aprender cosas nuevas dia a dia, ademas me gustan los retos!</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
